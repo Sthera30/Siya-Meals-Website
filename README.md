@@ -16,7 +16,7 @@ A responsive website where customers can:
 
 ## SEO
 
-I added search engine optimisation so that when people are searching for catering services around  Gqeberha, her website pops up.
+I added search engine optimisation so that when people search for catering services around Gqeberha her website appears in the results
 
 * Page-specific titles and meta descriptions using React Helmet
 * Canonical URLs to avoid duplicate content issues
