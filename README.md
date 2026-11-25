@@ -41,4 +41,4 @@ I added search engine optimisation so that when people are searching for caterin
 
 ## Notes
 
-Build as a freelance project through Sthe Digital Agency ([see more of my work on TikTok](https://www.tiktok.com/@sthe_digital_agency)).
+Built as a freelance project through Sthe Digital Agency ([see more of my work on TikTok](https://www.tiktok.com/@sthe_digital_agency)).
