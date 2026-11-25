@@ -1,0 +1,107 @@
+.our-serv-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 70vh !important;
+}
+
+.our-serv-container .our-serv-inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.our-serv-container .our-serv-inner h1 {
+    color: #fff;
+    font-size: 2.8rem;
+    font-weight: 300;
+}
+
+.services-heading- {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2.5rem 0rem;
+    padding: 0rem 2%;
+}
+
+.services-heading- h2 {
+    font-size: 2.2rem;
+    font-weight: 300;
+}
+
+.services-heading- {
+    display: flex;
+    flex-direction: column;
+}
+
+.services-heading- p {
+    max-width: 45rem;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 300;
+    line-height: 1.2;
+    margin-bottom: 2rem;
+}
+
+.service-cont- {
+    display: flex;
+    align-items: center !important;
+    gap: 1rem;
+    flex-wrap: wrap;
+    padding: 0rem 2%;
+    margin-bottom: 6rem;
+    margin-top: -3rem;
+}
+
+.service-cont-left {
+    flex: 1 1 30rem;
+    display: flex;
+    align-items: center;
+    margin-top: 2.5rem;
+}
+
+.service-cont-right {
+    flex: 1 1 30rem;
+    min-width: 0;
+    /* prevents flex overflow */
+
+}
+
+.service-cont-right img {
+    width: 100%;
+    height: auto;
+    /* keeps aspect ratio, no squeezing */
+    object-fit: cover;
+    display: block;
+    filter: brightness(0.8);
+}
+
+
+
+.services-heading- h2{
+    font-size: .9rem;
+}
+
+.services-heading- h3{
+    font-size: 2.1rem;
+    position: relative;
+}
+
+
+.services-heading- h3::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -10px;
+    /* space below text */
+    width: 0;
+    height: 3px;
+    background: green;
+    border-radius: 2px;
+    animation: lineGrow 1s ease forwards;
+}

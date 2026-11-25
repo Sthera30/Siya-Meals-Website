@@ -1,0 +1,21 @@
+.our-journey-burner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 70vh !important;
+}
+
+.our-journey-burner .our-journey-burner-inner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.our-journey-burner .our-journey-burner-inner h1{
+    color: #fff;
+    font-size: 2.8rem; 
+    font-weight: 300;
+}
