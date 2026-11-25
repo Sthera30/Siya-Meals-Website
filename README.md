@@ -30,10 +30,35 @@ I added search engine optimisation so that when people search for catering servi
 * React.js
 * HTML, CSS, JavaScript
 
-## Screenshots
+## 1. Clone the Repository
 
-<img width="100%" height="687" alt="Siya Meals Home Page" src="https://github.com/user-attachments/assets/3e96335e-bad2-45d5-92e3-11975e6afe75" />
-<img width="100%" height="675" alt="Siya Meals quotation request form" src="https://github.com/user-attachments/assets/e547875e-01a4-4d54-802b-78a0501bfebf" />
+```bash
+git clone https://github.com/Sthera30/Siya-Meals-Website.git
+```
+
+### 2 Navigate to the client Folder
+
+```bash
+cd Siya-Meals-Website/client
+```
+### 3 Install Dependencies
+
+```bash
+npm install
+```
+
+### 4 Start the Development Server
+
+```bash
+npm run dev
+
+```
+
+The frontend will run using the Vite development server.
+
+## Developed as a personal full-stack development project
+
+
 
 
 ## Notes
