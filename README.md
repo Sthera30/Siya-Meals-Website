@@ -23,9 +23,6 @@ I added search engine optimisation so that when people are searching for caterin
 * Open Graph and Twitter Card tags, so shared links show proper preview
 * Structured data (JSON-LD, schema.org 'CateringService') describing the business, its location and service are
 * a 'sitemap.xml' and 'robos.txt' to help search engines crawl the site
-
-
-* Page title and meta description that include the business name and catering services
 * Descriptive alt text on images
 
 ## Tech stack
